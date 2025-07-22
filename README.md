@@ -157,9 +157,6 @@
 4. **Embrace Low-Level Control**:  
    - Understand every byte in the generated binary  
 
-Expect 6-12 months for MVP.
-
-
 ---
 ### Compatibility Analysis for Your Language on Apple Silicon (M4/Mac)
 
@@ -192,3 +189,7 @@ Expect 6-12 months for MVP.
    - **Heterogeneous Cores**: Big.LITTLE thread scheduling
    - **Unified Memory Architecture**: Special caching requirements
    - **GPU Integration**: Requires Metal Shading Language
+
+
+---
+Expect 12-18 months for MVP.
