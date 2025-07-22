@@ -157,11 +157,10 @@
 4. **Embrace Low-Level Control**:  
    - Understand every byte in the generated binary  
 
----
-
 Expect 6-12 months for MVP.
 
 
+---
 ### Compatibility Analysis for Your Language on Apple Silicon (M4/Mac)
 
 1. **Current Compiler Target**  
